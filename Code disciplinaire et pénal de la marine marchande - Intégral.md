@@ -1,13 +1,13 @@
 # Code disciplinaire et pénal de la marine marchande  
-Version Consolidée au 1978-01-01
+Version Consolidée au 1979-01-03
 ## Contenu: 
   - [Partie législative (art. 1 à 96)](#1)
     - [Titre I : Dispositions générales. (art. 1 à 7)](#2)
     - [Titre III : Des infractions maritimes (art. 25 à 87 bis)](#3)
-      - [Chapitre I : Compétence et procédure. (art. 25 à 36 ter)](#4)
+      - [Chapitre I : Compétence et procédure. (art. 25 à 38)](#4)
       - [Chapitre II : De l'absence irrégulière et de l'abandon de poste. (art. 39 à 40)](#5)
       - [Chapitre III : Infractions touchant la police intérieure du navire. (art. 43 à 62)](#6)
-      - [Chapitre IV : Infractions concernant la police de la navigation. (art. 64 à 78)](#7)
+      - [Chapitre IV : Infractions concernant la police de la navigation. (art. 63 bis à 78)](#7)
       - [Chapitre V : Pertes de navires, abordages, échouements et autres accidents de navigation. (art. 79 à 87 bis)](#8)
     - [Titre IV : Des tribunaux maritimes commerciaux. (art. 88 à 94)](#9)
     - [Titre V : Dispositions diverses. (art. 95 à 96)](#10)
@@ -747,6 +747,38 @@ _Modifié par_:
   - Loi n°62-899 1962-08-04 art. 14 JORF 5 août 1962
 
 
+###### Article 38
+
+Lorsqu'il s'agit des faits prévus par les articles 63, premier et troisième alinéas, 63 bis et 80 à 83 de la présente loi et
+imputables à une ou plusieurs personnes appartenant à l'équipage d'un navire français ou étranger, l'administrateur des
+affaires maritimes peut, sans préjudice des mesures de droit commun, arrêter le navire jusqu'au dépôt, à la caisse des gens
+de mer, d'un cautionnement destiné à garantir l'exécution des condamnations et dont il fixe le montant. En cas de
+condamnation définitive et non exécutée, le cautionnement est acquis à la caisse des invalides de la marine, déduction faite
+des frais et réparations civiles.
+
+Pour assurer l'exécution de ces décisions, l'administrateur des affaires maritimes peut requérir les autorités du port de
+s'opposer à la libre sortie du navire, ou ordonner lui-même les mesures matérielles empêchant le départ du bâtiment.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1926-12-17
+
+_Modifié par_:
+
+  - Loi n°79-1 du 2 janvier 1979 - art. 1 () JORF 3 janvier 1979
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 15
+
+_Cite_:
+
+  - Code disciplinaire et pénal de la marine marchande - art. 63 (M)
+  - Code disciplinaire et pénal de la marine marchande 63, 63 bis al. 1 et al. 3, 80 à 83
+
+
 ### Chapitre II : De l'absence irrégulière et de l'abandon de poste.<a id=5></a>
 
 ###### Article 39
@@ -1266,6 +1298,42 @@ _Codifié par_:
 
 
 ### Chapitre IV : Infractions concernant la police de la navigation.<a id=7></a>
+
+###### Article 63 bis
+
+Sera puni d'une peine d'emprisonnement d'un mois à deux ans et d'une amende de 100.000 F à 500.000 F, ou de l'une de ces deux
+peines seulement, le capitaine de tout navire français ou étranger transportant une cargaison d'hydrocarbures ou d'autres
+substances dangereuses définies par décret, qui aura pénétré dans les eaux territoriales ou intérieures françaises sans avoir
+signalé au préfet maritime la date et l'heure d'entrée, la position, la route et la vitesse du navire ainsi que la nature et
+l'importance du chargement et, le cas échéant, tout accident de mer au sens des stipulations de la Convention de Bruxelles du
+29 novembre 1969, dont il aura été victime. Sera puni des mêmes peines tout capitaine qui n'aura pas signalé au préfet
+maritime tout accident de mer dont son navire aura été victime alors qu'il naviguait dans les eaux territoriales ou
+intérieures françaises.
+
+Les peines édictées à l'alinéa précédent seront encourues par le capitaine de tout navire français ou étranger qui, se
+trouvant dans les eaux territoriales françaises, se sera, aux fins d'assistance ou de remorquage, porté au secours de tout
+navire transportant une cargaison d'hydrocarbures ou d'autres substances dangereuses définies par décret, sans avoir signalé
+au préfet maritime dès qu'il en a eu connaissance la position du navire en difficulté et la nature de ses avaries ou sans
+avoir tenu le préfet maritime informé du déroulement des opérations de secours.
+
+**Nota:**
+
+.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Convention 1969-11-29 Bruxelles
+
+_Codifié par_:
+
+  - Loi n°1926-12-17
+
+_Créé par_:
+
+  - Loi n°79-1 du 2 janvier 1979 - art. 3 () JORF 3 janvier 1979
+
 
 ###### Article 64
 
