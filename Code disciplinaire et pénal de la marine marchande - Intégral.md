@@ -1,5 +1,5 @@
 # Code disciplinaire et pénal de la marine marchande  
-Version Consolidée au 1939-06-06
+Version Consolidée au 1939-08-03
 ## Contenu: 
   - [Partie législative (art. 3 à 96)](#1)
     - [Titre I : Dispositions générales. (art. 3 à 7)](#2)
@@ -9,7 +9,8 @@ Version Consolidée au 1939-06-06
       - [Chapitre III : Infractions touchant la police intérieure du navire. (art. 43 à 61)](#6)
       - [Chapitre IV : Infractions concernant la police de la navigation. (art. 66 à 78)](#7)
       - [Chapitre V : Pertes de navires, abordages, échouements et autres accidents de navigation. (art. 79 à 84)](#8)
-    - [Titre V : Dispositions diverses. (art. 95 à 96)](#9)
+    - [Titre IV : Des tribunaux maritimes commerciaux. (art. 88 à 93)](#9)
+    - [Titre V : Dispositions diverses. (art. 95 à 96)](#10)
 # Partie législative<a id=1></a>
 
 ## Titre I : Dispositions générales.<a id=2></a>
@@ -864,7 +865,76 @@ _Codifié par_:
   - Loi n°1926-12-17
 
 
-## Titre V : Dispositions diverses.<a id=9></a>
+## Titre IV : Des tribunaux maritimes commerciaux.<a id=9></a>
+
+###### Article 88
+
+Il est institué des tribunaux maritimes commerciaux qui connaissent des délits visés à l'article 36 bis.
+
+**Nota:**
+
+Article 88 nouveau*].
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
+
+_Cite_:
+
+  - Code disciplinaire et pénal de la marine marchande - art. 36 bis (V)
+
+_Codifié par_:
+
+  - Loi n°1926-12-17
+
+
+###### Article 92
+
+Les tribunaux maritimes commerciaux ne peuvent juger par défaut. Ils ne connaissent pas de l'action civile.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1926-12-17
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
+
+
+###### Article 93
+
+Le prévenu condamné par jugement des tribunaux maritimes commerciaux peut se pourvoir en cassation pour violation ou fausse
+application de la loi.
+
+Le pourvoi sera formé par une déclaration reçue par le greffier du tribunal qui aura rendu le jugement et inscrite sur un
+registre spécial tenu à cet effet. Il sera, quant aux délais et aux formes, assimilé aux pourvois en matière de police
+correctionnelle.
+
+Le ministre chargé de la marine marchande pourra, dans les cas prévus par l'article 620 du Code de procédure pénale,
+transmettre au ministre de la justice, pour être déférés à la Cour de cassation, dans l'intérêt de la loi, les jugements des
+tribunaux maritimes commerciaux qui seraient susceptibles d'être annulés pour violation des articles concernant le mode de
+procéder devant les tribunaux maritimes commerciaux ou des dispositions concernant les pénalités.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 620 (V)
+
+_Codifié par_:
+
+  - Loi n°1926-12-17
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
+
+
+## Titre V : Dispositions diverses.<a id=10></a>
 
 ###### Article 95
 
