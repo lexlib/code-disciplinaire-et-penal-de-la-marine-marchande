@@ -22,4 +22,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-1013 1993-08-24 art. 45 JORF 25 août 1993 en vigueur le 2 septembre 1993
+  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
