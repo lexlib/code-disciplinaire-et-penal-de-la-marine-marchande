@@ -1,5 +1,5 @@
 # Code disciplinaire et pénal de la marine marchande  
-Version Consolidée au 2001-01-01
+Version Consolidée au 2002-01-01
 ## Contenu: 
   - [Partie législative (art. 1 à 96)](#1)
     - [Titre I : Dispositions générales. (art. 1 à 7)](#2)
@@ -544,7 +544,7 @@ maritimes saisit le procureur de la République qui transmet le procès-verbal �
 tribunal de police compétent. S'il s'agit d'une contravention prévue à l'article 36 bis, il saisit : en France métropolitaine
 le président du tribunal maritime commercial, dans les départements d'outre-mer le procureur de la République.
 
-Dans le cas de contraventions passibles d'une amende supérieure à 3000 F  commises par des mineurs de dix-huit ans, il est
+Dans le cas de contraventions passibles d'une amende supérieure à 450 euros commises par des mineurs de dix-huit ans, il est
 procédé conformément aux dispositions du 2° du dernier alinéa du présent article.
 
 Si les faits incriminés constituent un crime ou un délit, l'administrateur des affaires maritimes saisit :
@@ -557,10 +557,6 @@ d'outre-mer, l'administrateur des affaires maritimes saisit le procureur de la R
 tribunal pour enfants de la résidence du mineur ou de sa famille. Le mineur est conduit devant ce magistrat aux frais de
 l'Etat et à la diligence de l'administrateur des affaires maritimes.
 
-**Nota:**
-
-NOTA : Intitulé du titre III modifié par la loi 62-899 du 4 août 1962, art. 3.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -572,23 +568,23 @@ _Cité par_:
   - Code disciplinaire et pénal de la marine marchande - art. 35 (VT)
   - Code disciplinaire et pénal de la marine marchande - art. 36 bis (V)
 
-_Codifié par_:
-
-  - Loi n°1926-12-17
-
 _Modifié par_:
 
-  - Loi n°62-899 1962-08-04 art. 9 JORF 5 août 1962
-  - Loi n°72-1226 1972-12-29 art. 62 JORF 30 décembre 1972
-  - Loi n°79-1131 du 28 décembre 1979 - art. 7 (V) JORF 29 décembre 1979
-  - Loi n°85-835 du 7 août 1985 - art. 7 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1986
-  - Loi n°89-469 du 10 juillet 1989 - art. 8 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 15
 
 _Cite_:
 
   - Code disciplinaire et pénal de la marine marchande - art. 26 (V)
   - Code disciplinaire et pénal de la marine marchande - art. 28 (M)
   - Code disciplinaire et pénal de la marine marchande - art. 36 (V)
+
+_Codifié par_:
+
+  - Loi n°1926-12-17
 
 
 ###### Article 34
@@ -936,7 +932,7 @@ _Nouveaux textes_:
 
 ###### Article 41
 
-Est puni de 25000 F d'amende tout capitaine qui ne se tient pas en personne dans son navire à l'entrée et à la sortie des
+Est puni de 3750 euros d'amende tout capitaine qui ne se tient pas en personne dans son navire à l'entrée et à la sortie des
 ports, havres ou rivières.
 
 **Liens relatifs à cet article**
@@ -945,13 +941,17 @@ _Codifié par_:
 
   - Loi n°1926-12-17
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ### Chapitre III : Infractions touchant la police intérieure du navire.<a id=6></a>
@@ -959,7 +959,7 @@ _Modifié par_:
 ###### Article 42
 
 Tout capitaine, officier ou maître, qui abuse de son autorité ou qui ordonne, autorise ou tolère un abus d'autorité vis-à-vis
-d'une personne embarquée, est puni de 25000 F d'amende et de six mois d'emprisonnement, ou de l'une de ces deux peines
+d'une personne embarquée, est puni de 3750 euros d'amende et de six mois d'emprisonnement, ou de l'une de ces deux peines
 seulement.
 
 Est puni de la même peine, tout capitaine, officier ou maître coupable d'outrage caractérisé par parole, geste ou menace
@@ -973,14 +973,17 @@ Dans cas prévus aux deux paragraphes précédents, la peine peut être doublée
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°92-1336 1992-12-16 art. 191, 322 et 329 JORF 23 décembre 1992 en vigueur le 1er mars 1994
-  - Loi n°92-1336 du 16 décembre 1992 - art. 191 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 12 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 _Cite_:
 
@@ -989,6 +992,12 @@ _Cite_:
   - Code pénal - art. 222-13 (M)
   - Code pénal - art. 222-8 (M)
   - Code disciplinaire et pénal de la marine marchande - art. 2 (V)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5531-10 (V)
+  - Code des transports - art. L5531-11 (Ab)
+  - Code des transports - art. L5531-9 (V)
 
 _Cité par_:
 
@@ -1078,27 +1087,35 @@ _Codifié par_:
 Est puni de six mois d'emprisonnement, tout capitaine qui favorise, par son consentement, l'usurpation de l'exercice du
 commandement à son bord.
 
-La même peine d'emprisonnement, à laquelle il peut être joint une amende de 25000 F, est prononcée contre toute personne qui
-a pris indûment le commandement d'un navire et contre l'armateur qui serait son complice.
+La même peine d'emprisonnement, à laquelle il peut être joint une amende de 3750 euros, est prononcée contre toute personne
+qui a pris indûment le commandement d'un navire et contre l'armateur qui serait son complice.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1926-12-17
-
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5531-12 (V)
+
 _Cité par_:
 
   - Code disciplinaire et pénal de la marine marchande - art. 36 bis (V)
   - Code disciplinaire et pénal de la marine marchande - art. 6 (VT)
+
+_Codifié par_:
+
+  - Loi n°1926-12-17
 
 
 ###### Article 46
@@ -1187,7 +1204,7 @@ _Codifié par_:
 
 Toute personne embarquée qui supprime intentionnellement ou conserve abusivement une lettre qui lui est confiée pour être
 remise à une personne embarquée sur le même navire, au lieu de la faire parvenir au destinataire, ou qui, dans les mêmes
-conditions, ouvre une lettre confiée à ses soins, est punie de trois mois d'emprisonnement ou de 25000 F d'amende.
+conditions, ouvre une lettre confiée à ses soins, est punie de trois mois d'emprisonnement ou de 3750 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -1195,13 +1212,17 @@ _Codifié par_:
 
   - Loi n°1926-12-17
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ###### Article 50
@@ -1407,22 +1428,30 @@ _Abrogé par_:
 
 ###### Article 57
 
-Est puni de 25000 F d'amende et de six mois d'emprisonnement, ou de l'une de ces deux peines seulement, tout officier, maître
-ou homme d'équipage qui se rend coupable d'outrage par parole, geste ou menace envers un supérieur.
+Est puni de 3750 euros d'amende et de six mois d'emprisonnement, ou de l'une de ces deux peines seulement, tout officier,
+maître ou homme d'équipage qui se rend coupable d'outrage par parole, geste ou menace envers un supérieur.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1926-12-17
-
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5531-11 (Ab)
+
+_Codifié par_:
+
+  - Loi n°1926-12-17
 
 
 ###### Article 58
@@ -1600,7 +1629,7 @@ _Cite_:
 Toute personne, même étrangère, embarquée sur un navire français ou étranger, qui, dans les eaux maritimes et jusqu'à la
 limite des eaux territoriales françaises, ne se conforme pas aux règlements et aux ordres émanant des autorités maritimes et
 relatifs, soit à la police des eaux et rades, soit à la police de la navigation maritime, est punie de six mois
-d'emprisonnement et de 25000 F d'amende, ou de l'une de ces deux peines seulement.
+d'emprisonnement et de 3750 euros d'amende, ou de l'une de ces deux peines seulement.
 
 La même peine est encourue par toute personne embarquée sur un navire français qui, hors des eaux territoriales françaises,
 ne se conforme pas aux ordres régulièrement donnés par un consul général, consul ou vice-consul de France, par une autorité
@@ -1610,9 +1639,9 @@ Le capitaine de tout navire français ou étranger, qui aura enfreint dans les e
 soit les règles de circulation maritime édictées en application de la Convention internationale de Londres du 20 octobre 1972
 en vue de prévenir les abordages en mer et relatives aux dispositifs de séparation de trafic, soit les règles édictées par
 les préfets maritimes en ce qui concerne les distances minimales de passage le long des côtes françaises, sera puni d'une
-peine de deux ans d'emprisonnement et de 50000 F d'amende ou de l'une de ces deux peines seulement. Toutefois, lorsque
+peine de deux ans d'emprisonnement et de 7500 euros d'amende ou de l'une de ces deux peines seulement. Toutefois, lorsque
 l'infraction est commise par le capitaine d'un bâtiment français ou étranger transportant une cargaison d'hydrocarbures ou
-d'autres substances dangereuses définies par décret, l'amende est de 1000000 F.
+d'autres substances dangereuses définies par décret, l'amende est de 150000 euros.
 
 Est puni des peines prévues par l'alinéa précédent le capitaine de tout navire français qui aura, hors des eaux territoriales
 ou intérieures françaises, enfreint les règles de circulation maritime édictées en application de la convention
@@ -1620,24 +1649,33 @@ internationale de Londres du 20 octobre 1972 en vue de prévenir les abordages e
 séparation de trafic.
 
 Si les infractions prévues au présent article ont été commises en temps de guerre, la peine peut être portée au triple et la
-connaissance desdites infractions appartient aux tribunaux maritimes.RL>
-
-**Nota:**
-
-NOTA : Les dispositions des alinéas 1 et 2 de l'article 63 ont valeur réglementaire selon la loi du 8 décembre 1939.
+connaissance desdites infractions appartient aux tribunaux maritimes.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
+  - Loi n°70-1264 du 23 décembre 1970 - art. 8 (V)
+  - Décret n°2017-426 du 28 mars 2017 (V)
   - Code de l'environnement - art. L331-19 (V)
   - Code de l'environnement - art. L332-22 (V)
   - Code de l'environnement - art. L334-6 (VT)
   - Code disciplinaire et pénal de la marine marchande - art. 38 (VT)
   - Code rural - art. L241-15 (Ab)
   - Code rural - art. L242-26 (Ab)
-  - Loi n°70-1264 du 23 décembre 1970 - art. 8 (V)
-  - Décret n°2017-426 du 28 mars 2017 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5242-1 (V)
+  - Code des transports - art. L5242-2 (V)
 
 _Cite_:
 
@@ -1647,18 +1685,10 @@ _Codifié par_:
 
   - Loi n°1926-12-17
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
-
 
 ###### Article 63 bis
 
-Sera puni d'une peine de deux ans d'emprisonnement et de 500000 F d'amende, ou de l'une de ces deux peines seulement, le
+Sera puni d'une peine de deux ans d'emprisonnement et de 75 000 euros d'amende, ou de l'une de ces deux peines seulement, le
 capitaine de tout navire français ou étranger transportant une cargaison d'hydrocarbures ou d'autres substances dangereuses
 définies par décret, qui aura pénétré dans les eaux territoriales ou intérieures françaises sans avoir signalé au préfet
 maritime la date et l'heure d'entrée, la position, la route et la vitesse du navire ainsi que la nature et l'importance du
@@ -1682,13 +1712,23 @@ _Codifié par_:
 
   - Loi n°1926-12-17
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5242-6 (V)
+  - Code des transports - art. L5242-7 (V)
+  - Code des transports - art. L5242-8 (V)
 
 
 ###### Article 64
@@ -1696,18 +1736,22 @@ _Modifié par_:
 Tout capitaine requis par l'autorité compétente, comme il est dit aux articles 30 et 31, qui, sans motif légitime, refuse de
 se charger du dossier de l'enquête ou des pièces à conviction ou d'assurer le transport d'un prévenu dans les conditions
 prévues à l'article 31, ou qui ne livre pas le prévenu ou le dossier confié à ses soins à l'autorité maritime désignée pour
-les recevoir, est puni de 25000 F d'amende sans préjudice s'il y a lieu, en cas d'évasion ou de complicité d'évasion, de
+les recevoir, est puni de 3 750 euros d'amende sans préjudice s'il y a lieu, en cas d'évasion ou de complicité d'évasion, de
 l'application aux personnes embarquées et au prévenu des dispositions des articles 237 à 243 du Code pénal.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
 
 _Cite_:
 
@@ -1782,7 +1826,7 @@ _Cite_:
 
 Tout capitaine qui, ayant laissé à terre, dans un port où n'existe aucune autorité française, un officier, un maître ou un
 homme d'équipage malade ou blessé, ne lui procure pas les moyens d'assurer son traitement et son rapatriement, est puni de
-25000 F d'amende et de deux mois d'emprisonnement, ou de l'une de ces deux peines seulement.
+3750 euros d'amende et de deux mois d'emprisonnement, ou de l'une de ces deux peines seulement.
 
 La même peine est encourue par le capitaine qui, ayant laissé à terre, avant qu'il ait atteint son lieu de destination, un
 passager malade ou blessé, ne donne pas avis de cette mesure à l'autorité consulaire du pays auquel appartient le passager
@@ -1794,43 +1838,55 @@ _Codifié par_:
 
   - Loi n°1926-12-17
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5531-14 (V)
 
 
 ###### Article 68
 
 Tout armateur qui exploite ou fait exploiter à terre un économat, en violation des dispositions de l'article 77 du Code du
 travail maritime, ou impose aux marins, en violation dudit article, l'obligation de dépenser tout ou partie de leurs salaires
-dans des magasins indiqués par lui, est puni de 25000 F d'amende, qui peut être portée à 50000 F en cas de récidive.
+dans des magasins indiqués par lui, est puni de 3 750 euros d'amende, qui peut être portée à 7 500 euros en cas de récidive.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1926-12-17
-
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
 _Cite_:
 
   - Code du travail maritime - art. 77 (V)
 
+_Codifié par_:
+
+  - Loi n°1926-12-17
+
 
 ###### Article 69
 
-Est puni d'une amende de 25 000 F, pour chaque infraction constatée, tout armateur ou propriétaire de navire qui ne se
+Est puni d'une amende de 3 750 euros, pour chaque infraction constatée, tout armateur ou propriétaire de navire qui ne se
 conforme pas aux prescriptions du Code du travail maritime relatives aux réglementations du travail, de la nourriture et du
 couchage à bord des navires et aux prescriptions des règlements d'administration publique rendus pour leur application.
 
@@ -1842,16 +1898,25 @@ propriétaire, s'il est prouvé que le capitaine a reçu un ordre écrit ou verb
 Les peines prévues aux deux paragraphes précédents peuvent être portées au double en cas de récidive. Il y a récidive lorsque
 le contrevenant a subi, dans les douze mois qui précèdent, une condamnation pour des faits réprimés par le présent article.
 
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 7 : Le présent article est abrogé en tant qu'il concerne la durée du
+travail, le repos et l'âge d'admission des marins.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
   - Décret n°2006-214 du 22 février 2006 - art. 3 (V)
   - Décret n°2006-534 du 10 mai 2006 - art. 15 (M)
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 _Cite_:
 
@@ -1866,26 +1931,34 @@ _Codifié par_:
 
 Toute personne qui, sur un navire français, exerce, sans l'autorisation de l'administrateur des affaires maritimes et hors le
 cas de force majeure, soit le commandement du bâtiment, soit toute autre fonction du bord, sans satisfaire aux conditions
-exigées par les lois et règlements maritimes, est punie d'un an d'emprisonnement et de 25000 F d'amende ou de l'une de ces
-deux peines seulement.
+exigées par les lois et règlements maritimes, est punie d'un an d'emprisonnement et de 3 750 euros d'amende ou de l'une de
+ces deux peines seulement.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5523-2 (V)
+
+_Cité par_:
+
+  - Code disciplinaire et pénal de la marine marchande - art. 6 (VT)
 
 _Codifié par_:
 
   - Loi n°1926-12-17
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
-_Cité par_:
+_Modifié par_:
 
-  - Code disciplinaire et pénal de la marine marchande - art. 6 (VT)
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ###### Article 72
@@ -1991,9 +2064,9 @@ _Abrogé par_:
 ###### Article 75
 
 Toute personne embarquée qui, à l'insu du capitaine, introduit sur un navire, en vue de les faire transporter, des
-marchandises non inscrites au manifeste, est punie de 25000 F d'amende et de six mois d'emprisonnement, ou de l'une de ces
-deux peines seulement, sans préjudice du droit du capitaine de jeter à la mer, dans les conditions de l'article 23 du Code du
-travail maritime, les marchandises indûment chargées sur le bâtiment.
+marchandises non inscrites au manifeste, est punie de 3 750 euros d'amende et de six mois d'emprisonnement, ou de l'une de
+ces deux peines seulement, sans préjudice du droit du capitaine de jeter à la mer, dans les conditions de l'article 23 du
+Code du travail maritime, les marchandises indûment chargées sur le bâtiment.
 
 **Liens relatifs à cet article**
 
@@ -2001,13 +2074,17 @@ _Codifié par_:
 
   - Loi n°1926-12-17
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 _Cite_:
 
@@ -2045,9 +2122,25 @@ _Abrogé par_:
 ###### Article 78
 
 Tout capitaine qui ne se conforme pas aux dispositions fixées par décret sur les marques extérieures d'identité des navires,
-ou qui efface, altère, couvre ou masques lesdites marques est puni de 25000 F d'amende.
+ou qui efface, altère, couvre ou masques lesdites marques est puni de 3 750 euros d'amende.
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5111-2 (V)
 
 _Cité par_:
 
@@ -2057,14 +2150,6 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°1926-12-17
-
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
 
 ### Chapitre V : Pertes de navires, abordages, échouements et autres accidents de navigation.<a id=8></a>
@@ -2109,30 +2194,38 @@ _Codifié par_:
 
 ###### Article 80
 
-Est puni de trois mois d'emprisonnement et de 25000 F d'amende, ou de l'une de ces deux peines seulement, tout capitaine ou
-chef de quart qui se rend coupable d'une infraction aux règles prescrites par les règlements maritimes, soit sur les feux à
-allumer la nuit et les signaux à faire en temps de brume, soit sur la route à suivre et les manoeuvres à exécuter en cas de
+Est puni de trois mois d'emprisonnement et de 3 750 euros d'amende, ou de l'une de ces deux peines seulement, tout capitaine
+ou chef de quart qui se rend coupable d'une infraction aux règles prescrites par les règlements maritimes, soit sur les feux
+à allumer la nuit et les signaux à faire en temps de brume, soit sur la route à suivre et les manoeuvres à exécuter en cas de
 rencontre d'un bâtiment.
 
 Est puni de la même peine, tout pilote qui se rend coupable d'une infraction aux règles sur la route à suivre.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°1926-12-17
-
 _Cité par_:
 
   - Loi n°68-1181 du 30 décembre 1968 - art. 30 (Ab)
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5242-3 (V)
+
+_Codifié par_:
+
+  - Loi n°1926-12-17
 
 
 ###### Article 81
@@ -2140,11 +2233,11 @@ _Modifié par_:
 Si l'une des infractions prévues à l'article 80 ou tout autre fait de négligence imputable au capitaine, chef de quart ou
 pilote, a occasionné, pour le navire ou pour un autre navire, soit un abordage, soit un échouement ou un choc contre un
 obstacle visible ou connu, soit une avarie grave du navire ou de sa cargaison, le coupable est puni de trois mois
-d'emprisonnement et de 25000 F d'amende, ou de l'une de ces deux peines seulement.
+d'emprisonnement et de 3750 euros d'amende, ou de l'une de ces deux peines seulement.
 
 Si l'infraction a eu pour conséquence la perte ou l'innavigabilité absolue d'un navire ou la perte d'une cargaison, ou si
 elle a entraîné soit des blessures graves, soit la mort pour une ou plusieurs personnes, le coupable est puni de deux ans
-d'emprisonnement et de 25000 F d'amende, ou de l'une de ces deux peines seulement.
+d'emprisonnement et de 3 750 euros d'amende, ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
@@ -2156,13 +2249,21 @@ _Cité par_:
 
   - Loi n°68-1181 du 30 décembre 1968 - art. 30 (Ab)
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5242-4 (V)
 
 
 ###### Article 82
@@ -2204,9 +2305,10 @@ _Nouveaux textes_:
 
 ###### Article 83
 
-Est puni de 25000 F d'amende et de deux ans d'emprisonnement, ou de l'une de ces deux peines seulement, tout capitaine qui,
-après abordage et autant qu'il peut le faire sans danger pour son navire, son équipage et ses passagers, néglige d'employer
-tous les moyens dont il dispose pour sauver du danger créé par l'abordage l'autre bâtiment, son équipage et ses passagers.
+Est puni de 3 750 euros d'amende et de deux ans d'emprisonnement, ou de l'une de ces deux peines seulement, tout capitaine
+qui, après abordage et autant qu'il peut le faire sans danger pour son navire, son équipage et ses passagers, néglige
+d'employer tous les moyens dont il dispose pour sauver du danger créé par l'abordage l'autre bâtiment, son équipage et ses
+passagers.
 
 Est puni de la même peine le capitaine qui, hors le cas de force majeure, s'éloigne du lieu du sinistre avant de s'être
 assuré qu'une plus longue assistance est inutile à l'autre bâtiment, à son équipage et à ses passagers, et si le bâtiment a
@@ -2215,8 +2317,8 @@ de la non-exécution des obligations visées au présent paragraphe, la peine pe
 
 Après un abordage, le capitaine de chacun des navires abordés qui, s'il le peut sans danger pour son navire, son équipage ou
 ses passagers, ne fait pas connaître au capitaine de l'autre navire les noms de son propre navire et des ports d'attache, de
-départ et de destination de celui-ci, est puni de 25000 F d'amende et de trois mois d'emprisonnement, ou de l'une de ces deux
-peines seulement.
+départ et de destination de celui-ci, est puni de 3 750 euros d'amende et de trois mois d'emprisonnement, ou de l'une de ces
+deux peines seulement.
 
 **Liens relatifs à cet article**
 
@@ -2224,13 +2326,22 @@ _Codifié par_:
 
   - Loi n°1926-12-17
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5262-6 (V)
+  - Code des transports - art. L5263-1 (V)
 
 
 ###### Article 84
@@ -2275,27 +2386,30 @@ _Codifié par_:
 ###### Article 85
 
 Tout capitaine qui, alors qu'il peut le faire sans danger sérieux pour son navire, son équipage ou ses passagers, ne prête
-pas assistance à toute personne, même ennemie, trouvée en mer en danger de se perdre, est puni de 25000 F d'amende et de deux
-ans d'emprisonnement, ou de l'une de ces deux peines seulement.
-
-**Nota:**
-
-NOTA : Sur la répression du délit de fuite en cas d'accident causé par la navigation maritime ou fluviale voir la loi 66-962
-du 26 décembre 1966.
+pas assistance à toute personne, même ennemie, trouvée en mer en danger de se perdre, est puni de 3 750 euros d'amende et de
+deux ans d'emprisonnement, ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5262-5 (V)
 
 _Codifié par_:
 
   - Loi n°1926-12-17
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ###### Article 86
@@ -2380,27 +2494,31 @@ _Codifié par_:
 
 ###### Article 87 bis
 
-Est punie de la peine de cinq ans d'emprisonnement et de 25000 F d'amende, ou de l'une de ces deux peines seulement toute
+Est punie de la peine de cinq ans d'emprisonnement et de 3 750 euros d'amende, ou de l'une de ces deux peines seulement toute
 personne qui, étant à terre ou à bord, provoquera, par parole ou par écrits, un homme d'équipage ou l'équipage d'un navire, à
 commettre l'un des délits punis par la présente loi.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+_Codifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°1926-12-17
 
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
 _Cité par_:
 
   - Code disciplinaire et pénal de la marine marchande - art. 36 bis (V)
-
-_Codifié par_:
-
-  - Loi n°1926-12-17
 
 
 ## Titre IV : Des tribunaux maritimes commerciaux.<a id=9></a>
