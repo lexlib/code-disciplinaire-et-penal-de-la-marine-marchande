@@ -1,5 +1,5 @@
 # Code disciplinaire et pénal de la marine marchande  
-Version Consolidée au 1994-03-01
+Version Consolidée au 2001-01-01
 ## Contenu: 
   - [Partie législative (art. 1 à 96)](#1)
     - [Titre I : Dispositions générales. (art. 1 à 7)](#2)
@@ -781,7 +781,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-1013 1993-08-24 art. 45 JORF 25 août 1993 en vigueur le 2 septembre 1993
+  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000 en vigueur le 1er janvier 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
 
 
 ###### Article 37
